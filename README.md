@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @m4rcexe
+- 👋 Hi, I’m Marc
 - 👀 I’m a 3rd year Ethical Hacker @AbertayHackers
 - 🌱 I’m interested in Penetration Testing, OSINT, Malware, Forensics and Programming.
 - 📫 Twitter: @m4rcexe LinkedIn: /marcgeggan
